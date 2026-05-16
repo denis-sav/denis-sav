@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![WakaTime](https://wakatime.com/share/@77f7d8d0-3afe-4d63-96a0-d5a1f5d92e70/509d216b-86fd-4a62-a00e-3ff20d4f068d.png)](https://wakatime.com/)
+
+[![WakaTime](https://wakatime.com/share/@77f7d8d0-3afe-4d63-96a0-d5a1f5d92e70/e15185e4-6c0e-4b02-9207-0a985d8fb498.png)](https://wakatime.com/)
+
 <!--
 **denis-sav/denis-sav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
